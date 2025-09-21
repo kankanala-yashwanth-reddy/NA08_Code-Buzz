@@ -1,0 +1,2 @@
+# NA08_Code-Buzz
+An AI-powered mobile application for farmers to detect crop diseases by capturing an image. The app provides analysis, pesticide suggestions, and recommendations in both English and Telugu, complete with a voice assistant for accessibility.
